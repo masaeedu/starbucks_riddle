@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@masaeedu/fp": "https://github.com/masaeedu/fp.git#dev",
     "word-list": "^2.0.0",
     "wordnet": "^0.1.2"
   }
